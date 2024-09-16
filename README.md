@@ -1,3 +1,15 @@
+
+ <p align="center">
+  <a href="https://coinnodes.tech/">
+    <img src="https://www.coinnodes.tech/images/logo.png" alt="Logo da Coinnodes.tech" width="400"/>
+  </a>
+</p>
+
+# Acesse nosso site: [coinnodes.tech](https://coinnodes.tech/)
+
+*CoinNodes.tech:* Trabalhamos no fornecimento de dados e tecnologia para o mercado de financeiro de bancos, pagamentos e criptoativos, proporcionando soluções avançadas e confiáveis para todos os envolvidos no setor, incluindo investidores, empresas e desenvolvedores.
+
+Para mais informações, visite nosso site [aqui](https://coinnodes.tech/en).
 # Next.js Base Template
 
 ## Introdução
