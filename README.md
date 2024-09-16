@@ -205,3 +205,9 @@ Este template inclui uma estrutura de pastas organizada e uma configuração de 
 - **Organização**: Segrega diferentes tipos de arquivos e lógicas, tornando a aplicação mais fácil de manter.
 - **Reutilização**: Centraliza componentes, hooks e serviços, promovendo a reutilização e evitando duplicação.
 - **Testabilidade**: Estrutura clara para testes, promovendo uma cobertura abrangente da aplicação.
+
+---------------
+
+© 2024 Coin Nodes LTDA. Todos os direitos reservados.
+
+O código e a documentação escritos pertencem e foram construídos pela Coin Nodes LTDA. Estes possuem propriedade intelectual e estão protegidos pelas leis de copyright. Qualquer uso não autorizado, reprodução ou distribuição sem o consentimento explícito da Coin Nodes LTDA é estritamente proibido.
