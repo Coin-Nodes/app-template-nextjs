@@ -1,3 +1,15 @@
+
+ <p align="center">
+  <a href="https://coinnodes.tech/">
+    <img src="https://www.coinnodes.tech/images/logo.png" alt="Logo da Coinnodes.tech" width="400"/>
+  </a>
+</p>
+
+# Acesse nosso site: [coinnodes.tech](https://coinnodes.tech/)
+
+*CoinNodes.tech:* Trabalhamos no fornecimento de dados e tecnologia para o mercado de financeiro de bancos, pagamentos e criptoativos, proporcionando soluções avançadas e confiáveis para todos os envolvidos no setor, incluindo investidores, empresas e desenvolvedores.
+
+Para mais informações, visite nosso site [aqui](https://coinnodes.tech/en).
 # Next.js Base Template
 
 ## Introdução
@@ -193,3 +205,9 @@ Este template inclui uma estrutura de pastas organizada e uma configuração de 
 - **Organização**: Segrega diferentes tipos de arquivos e lógicas, tornando a aplicação mais fácil de manter.
 - **Reutilização**: Centraliza componentes, hooks e serviços, promovendo a reutilização e evitando duplicação.
 - **Testabilidade**: Estrutura clara para testes, promovendo uma cobertura abrangente da aplicação.
+
+---------------
+
+© 2024 Coin Nodes LTDA. Todos os direitos reservados.
+
+O código e a documentação escritos pertencem e foram construídos pela Coin Nodes LTDA. Estes possuem propriedade intelectual e estão protegidos pelas leis de copyright. Qualquer uso não autorizado, reprodução ou distribuição sem o consentimento explícito da Coin Nodes LTDA é estritamente proibido.
